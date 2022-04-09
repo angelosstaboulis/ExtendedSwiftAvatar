@@ -21,7 +21,6 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="string" keyPath="urlMainPicture" value="https://www.kanonitv.net/wp-content/uploads/2018/05/Maggie-Charalampidou-Swimsuit-Mykonos-Kanoni-9.jpg"/>
                                     <userDefinedRuntimeAttribute type="number" keyPath="imageX">
                                         <real key="value" value="50"/>
                                     </userDefinedRuntimeAttribute>
@@ -36,6 +35,7 @@
                                     </userDefinedRuntimeAttribute>
                                     <userDefinedRuntimeAttribute type="string" keyPath="localMainPicture" value="/Users/angelosstaboulis/Downloads/image-000.png"/>
                                     <userDefinedRuntimeAttribute type="string" keyPath="location" value="remote"/>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="urlMainPicture" value="https://i2.wp.com/a.fsdn.com/con/images/sandiego/icons/default-avatar.png?ssl=1"/>
                                 </userDefinedRuntimeAttributes>
                             </view>
                         </subviews>
